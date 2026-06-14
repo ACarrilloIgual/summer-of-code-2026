@@ -1,3 +1,5 @@
 Avui, diumenge 14 de Juny de 2026, he creat el meu primer repositori local amb Git.
 --
 Ara estic aprenent a modificar fitxers amb Git.
+--
+Ja sé fer push a GitHub :)
