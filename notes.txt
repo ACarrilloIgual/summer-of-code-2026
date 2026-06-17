@@ -3,3 +3,4 @@ Avui, diumenge 14 de Juny de 2026, he creat el meu primer repositori local amb G
 Ara estic aprenent a modificar fitxers amb Git.
 --
 Aquesta línia ha estat modificada a la branch main.
+Aquesta línia ha estat modificada a la branch conflicte.
